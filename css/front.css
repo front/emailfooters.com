@@ -5,3 +5,15 @@ body {
 .center {
   text-align: center;
 }
+
+.highlight {
+  margin: 0 inherit;
+}
+
+.highlight img{
+  margin-bottom: 10px;
+}
+
+ol {
+  list-style: none;
+}
